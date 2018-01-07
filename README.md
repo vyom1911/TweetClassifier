@@ -16,7 +16,7 @@ To run our Web Application:
 5) In classifier.py update the path to the model you want to use. Models are in our zip file
 6) Run the web app on localhost
 
-# Dataset Citations:
+## Dataset Citations:
 We used the dataset from the crisisNLP research which belongs to paper:-
 Muhammad Imran , Prasenjit Mitra , Carlos Castillo; Twitter as a Lifeline: Human-annotated Twitter
 Corpora for NLP of Crisis-related Messages; ​ In Proceedings of the 10th Language Resources and
